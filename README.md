@@ -1,10 +1,8 @@
-PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS {style="text-align: center;"}
+PRIVACY POLICY FOR COMPITI
 --------------------------------------------
 
 This privacy policy governs your use of the software application App
-Name (“Application”) for mobile devices that was created by Developer
-Company Name. The Application is Basic description of the app (features,
-functionality and content) 
+Name (“Compiti”) for mobile devices that was created by Kelvin Garcia. 
 
 ####  
 
@@ -12,12 +10,6 @@ functionality and content) 
 
 **User Provided Information** 
 
-The Application obtains the information you provide when you download
-and register the Application. Registration with us is optional. However,
-please keep in mind that you may not be able to use some of the features
-offered by the Application unless you register with us.
-
- 
 
 When you register with us and use the Application, you generally
 provide (a) your name, email address, age, user name, password and other
@@ -88,7 +80,7 @@ You can stop all collection of information by the Application easily by
 uninstalling the Application. You may use the standard uninstall
 processes as may be available as part of your mobile device or via the
 mobile application marketplace or network. You can also request to
-opt-out via email, at privacy@applicationsite.com.
+opt-out via email, at appcompiti@gmail.com.
 
  
 
@@ -99,7 +91,7 @@ and for a reasonable time thereafter. We will retain Automatically
 Collected information for up to 24 months and thereafter may store it in
 aggregate. If you’d like us to delete User Provided Data that you have
 provided via the Application, please contact us
-at privacy@applicationsite.com and we will respond in a reasonable time.
+at appcompiti@gmail.com and we will respond in a reasonable time.
 Please note that some or all of the User Provided Data may be required
 in order for the Application to function properly.
 
@@ -110,7 +102,7 @@ in order for the Application to function properly.
 We do not use the Application to knowingly solicit data from or market
 to children under the age of 13. If a parent or guardian becomes aware
 that his or her child has provided us with information without their
-consent, he or she should contact us at privacy@applicationsite.com. We
+consent, he or she should contact us at appcompiti@gmail.com. We
 will delete such information from our files within a reasonable time.
 
 ####  
@@ -157,4 +149,4 @@ standards. 
 
 If you have any questions regarding privacy while using the Application,
 or have questions about our practices, please contact us via email
-at privacy@applicationsite.com.
+at appcompiti@gmail.com.
